@@ -12,9 +12,11 @@ This Python project:
 
 ## Requirements
 Install dependencies using:
+pip 
 
 ## Usage
 Run the project:
+Jupyter uPynb
 
 ## Example
 Replace `mint_address` in the script with the actual Solana token's mint address.
